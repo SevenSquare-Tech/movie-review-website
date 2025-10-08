@@ -4,6 +4,8 @@ A Movie Review and Recommendation Application built using the MERN stack — Mon
 This app allows users to browse movies, post reviews, and get personalized recommendations.
 Admins can manage movie and artist data through a dedicated dashboard.
 
+[Here’s the Full Guide to Develop a Responsive Movie Review Website in ReactJS.](https://www.sevensquaretech.com/build-movie-review-website-reactjs-with-github-code/)
+
 🚀 Features
 
 - User Registration & Authentication (JWT-based)
